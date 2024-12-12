@@ -24,7 +24,7 @@
 
 ## Installation
 
-1. Download the latest release from the [Releases](#) section.
+1. Download the latest release from the [Releases](https://github.com/EmmanueleVilla/WowProcess/releases) section.
 2. Extract the downloaded `.zip` file to a folder of your choice.
 3. Run the `WoWProcess.exe` file.
 
@@ -60,7 +60,7 @@ To make the app start automatically with Windows:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/WoWProcessPriorityManager.git
+   git clone https://github.com/EmmanueleVilla/WoWProcessPriorityManager.git
    ```
 2. Open the project in Rider or Visual Studio.
 3. Build the solution in `Release` mode.
