@@ -26,14 +26,14 @@
 
 1. Download the latest release from the [Releases](#) section.
 2. Extract the downloaded `.zip` file to a folder of your choice.
-3. Run the `WoWProcessPriorityManager.exe` file.
+3. Run the `WoWProcess.exe` file.
 
 ---
 
 ## Usage
 
 1. **Launch the App**:
-   - Double-click `WoWProcessPriorityManager.exe`. The app will appear in the system tray.
+   - Double-click `WoWProcess.exe`. The app will appear in the system tray.
 2. **Access the Tray Menu**:
    - Right-click the tray icon to:
      - Start/Stop monitoring.
@@ -46,11 +46,11 @@
 To make the app start automatically with Windows:
 1. **Startup Folder**:
    - Press `Win + R`, type `shell:startup`, and press Enter.
-   - Place a shortcut of `WoWProcessPriorityManager.exe` in this folder.
+   - Place a shortcut of `WoWProcess.exe` in this folder.
 2. **Task Scheduler** (for admin privileges):
    - Open **Task Scheduler** and create a new task.
    - Set the task to run at logon and configure it to run with highest privileges.
-   - Point the task to the `WoWProcessPriorityManager.exe` file.
+   - Point the task to the `WoWProcess.exe` file.
 
 ---
 
