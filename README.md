@@ -22,6 +22,12 @@
 
 ---
 
+## Requirements
+You need .NET 9.0 runtime to run the app. You can download it [here](https://download.visualstudio.microsoft.com/download/pr/685792b6-4827-4dca-a971-bce5d7905170/1bf61b02151bc56e763dc711e45f0e1e/windowsdesktop-runtime-9.0.0-win-x64.exe)
+
+---
+
+
 ## Installation
 
 1. Download the latest release from the [Releases](https://github.com/EmmanueleVilla/WowProcess/releases) section.
